@@ -7,7 +7,7 @@ This is a simple HTML webpage that displays:
 - Full name
 - Course name
 - Major
-- A message (e.g., "Hello, World!")
+- A message (e.g. "Hello, World!")
 
 The file is named `index.html` and is designed to be used as a basic introductory webpage. It can be hosted using GitHub Pages.
 
